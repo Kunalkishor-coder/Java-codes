@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-this is second file
-=======
-this is second file
 
-java is awesome
-
-updated by second
->>>>>>> second
-
-india is 7th largest country
