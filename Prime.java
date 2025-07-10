@@ -10,7 +10,7 @@ public class Prime{
 		return true;
 	}
 	public static void main(String []args){
-		int n =0;
+		int n=5;
 		do{
 			if(n==5){
 				System.out.println("ENTER A NO. TO CHECK PRIME :");
