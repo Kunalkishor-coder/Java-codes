@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Prime{
 	public static boolean isPrime(int data){
-		for(int i=2;i<data/2;i++){
+		for(int i=2;i<=data/2;i++){
 			if(data%i==0){
 				return false;
 			}
