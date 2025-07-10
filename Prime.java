@@ -10,7 +10,7 @@ public class Prime{
 		return true;
 	}
 	public static void main(String []args){
-		int n;
+		int n =0;
 		do{
 			if(n==5){
 				break;
@@ -22,6 +22,9 @@ public class Prime{
 				else
 					System.out.println(data+" is a not prime no.");
 			}
+			
+			System.out.println("TO CONTINUE PRESS '5' OTHERWISE PRESS ANYTHING");
+			n=new Scanner(System.in).nextInt();
 		}
 		while(n!=5);
 		
