@@ -1,1 +1,9 @@
-
+import java.util.Scanner;
+public class BubbleSort{
+	public static void main(String []args){
+		int []data = new int[]={18,12,36,8,1,76};
+		
+		for(int x:data)
+			System.out.println(x);
+	}
+}
