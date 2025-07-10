@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is second file
+=======
+this is second file
+
+java is awesome
+
+updated by second
+>>>>>>> second
