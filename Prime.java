@@ -13,14 +13,14 @@ public class Prime{
 		int n =0;
 		do{
 			if(n==5){
-				break;
-			}else{
 				System.out.println("ENTER A NO. TO CHECK PRIME :");
 				int data = new Scanner(System.in).nextInt();
 				if(isPrime(data))
 					System.out.println(data+" is a prime no.");
 				else
 					System.out.println(data+" is a not prime no.");
+			}else{
+				break;
 			}
 			
 			System.out.println("TO CONTINUE PRESS '5' OTHERWISE PRESS ANYTHING");
