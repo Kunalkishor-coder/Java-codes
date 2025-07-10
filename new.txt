@@ -1,1 +1,5 @@
 this is second file
+
+java is awesome
+
+updated by second
