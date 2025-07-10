@@ -26,7 +26,7 @@ public class Prime{
 			System.out.println("TO CONTINUE PRESS '5' OTHERWISE PRESS ANYTHING");
 			n=new Scanner(System.in).nextInt();
 		}
-		while(n!=5);
+		while(n==5);
 		
 	}
 }
